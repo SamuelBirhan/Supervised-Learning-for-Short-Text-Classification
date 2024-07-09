@@ -40,3 +40,6 @@ python modelSelection.py
 python trainSelectedModels.py
 python generateTestData.py
 python testTrainedModels.py
+
+
+the data can be found in http://mlg.ucd.ie/datasets/bbc.html and should be saved as bbc with each class.
